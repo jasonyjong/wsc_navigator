@@ -1,0 +1,1117 @@
+distance,speed,traffic lights,notes
+0.2,-1,True,Cavanagh Street Traffic Light Straight ahead 
+0.5,-1,True,Mc Minn Street Traffic Light Straight ahead 
+1.0,60,False,Speed 60 Speed limit 
+1.6,-1,False,Dinah Beach Road t/o on right Straight ahead 
+2.3,-1,False,Tipperary Waters t/o on right Straight ahead 
+3.3,-1,False,Stuart Park t/o on left Straight ahead 
+4.5,-1,False,Bennison Road t/o on left Straight ahead 
+4.8,100,False,Speed 100 Speed limit 
+8.6,-1,False,Amy Johnson Drive t/o on left Straight ahead 
+9.8,-1,False,Hidden Valley Raceway Straight ahead 
+12.0,-1,True,Berrimah Road Traffic Light Straight ahead 
+14.0,-1,True,Wishart Siding Road Traffic Light Straight ahead 
+16.0,-1,False,Moring Street exit Straight ahead 
+17.0,-1,False,Palmerston exit exit Straight ahead 
+24.0,-1,True,Howard Springs Traffic Light Straight ahead 
+29.0,-1,True,Traffic light Coolalinga 
+31.0,100,False,Speed limit 100 Km/h 
+34.0,-1,True,Traffic light Arnhem Hwy t/o 
+37.0,110,False,Speed Limit 110 Km/h Speed limit 
+38.0,-1,False,Elizabeth River Bridge 
+42.0,-1,False,NOONAMAH Public Telephone 
+45.0,-1,True,Cox Peninsular Road Traffic Light 
+46.0,-1,False,Divided hwy ends 
+51.0,130,False,Speed limit 130 Km/h 
+61.0,-1,False,ACACIA STORE on right Public telephone 
+66.0,-1,False,Overtaking lane starts 
+68.0,-1,False,Overtaking lane ends 
+78.0,-1,False,Lake Bennett t/o on left 
+84.0,-1,False,Batchelor / Litchfield t/o on right 
+87.0,-1,False,Coomalie Creek 
+93.0,-1,False,Glenluckie Creek 
+111.0,100,False,Speed Limit 100 Km/h Speed limit 
+112.0,80,False,Speed Limit 80 Km/h Speed limit 
+113.0,-1,False,ADELAIDE RIVER on left Full services 
+113.0,-1,False,Daly River t/o on right 
+114.0,130,False,speed limit 130 Km/h 
+143.0,-1,False,Overtaking lane starts on left 
+144.0,-1,False,Overtaking lane ends on right 
+160.0,-1,False,Douglas Hot Springs t/o on right 
+170.0,-1,False,HAYES CREEK Roadhouse 
+171.0,-1,False,Overtaking lane starts 
+173.0,-1,False,O/taking lane ends before summit ! 
+177.0,-1,False,Grove Hill t/o on left 
+184.0,-1,False,Overtaking lane starts 
+186.0,-1,False,Overtaking lane ends 
+191.0,-1,False,EMERALD SPRINGS on right Roadhouse 
+193.0,-1,False,Overtaking lane starts 
+196.0,-1,False,Overtaking lane ends 
+210.0,-1,False,Pin Que Road t/o on left 
+212.0,-1,False,Overtaking lane starts 
+214.0,-1,False,Overtaking lane ends 
+222.0,100,False,Speed Limit 100 Km/h Speed limit 
+223.0,-1,False,PINE CREEK township t/o on right 
+223.0,-1,False,Kakadu Hwy t/o on left 
+226.0,-1,False,PINE CREEK township t/o on right 
+227.0,-1,False,Umbrawarra Dam t/o on right 
+229.0,130,False,Speed Limit 130 Km/h 
+249.0,-1,False,Dorisvale t/o on right 
+253.0,-1,False,Cullen River bridge 
+255.0,-1,False,Sign: K60 
+256.0,-1,False,Parking Bay on left 
+257.0,-1,False,Fergusson River 
+259.0,-1,False,Overtaking lane starts 
+260.0,-1,False,Overtaking lane ends 
+271.0,-1,False,Divided road starts 
+273.0,-1,False,Edith Falls t/o on left 
+273.0,-1,False,Divided road ends 
+274.0,-1,False,Sign: K40 
+282.0,-1,False,Overtaking lane starts 
+284.0,-1,False,Overtaking land ends 
+284.0,-1,False,Sign: K30 
+287.0,-1,False,Edith Farms Road t/o on right 
+294.0,-1,False,Sign: K20 
+298.0,-1,False,NT Rural College on right 
+305.0,-1,False,Railway bridge 
+309.0,100,False,Speed Limit 100 Km/h 
+312.0,80,False,Speed limit 80 Km/h 
+314.0,60,False,Speed limit 60 Km/h 
+314.0,-1,False,Katherine River Bridge 
+315.0,-1,False,Tourist Centre On left 
+315.0,80,False,Speed Limit 80 Km/h 
+316.0,-1,False,Godinymayin Arts Centre On left 
+318.0,100,False,Speed limit 100 Km/h 
+320.0,-1,False,Transport Weigh-Station 
+321.0,-1,False,Katherine Control Stop Follow Marshal Instructions 
+321.0,-1,False,Depart Control Stop 1 
+324.0,100,False,Speed limit 100 Km/h 
+326.0,-1,False,Katherine Airport t/o on right 
+327.0,110,False,Speed limit 110 Km/h 
+333.0,-1,False,Military Airbase (RAAF Tindal) t/o on right 
+334.0,-1,False,Sign: M 90 
+336.0,130,False,Speed limit 130 Km/h 
+344.0,-1,False,Sign: M 80 (Mataranka 80 Km) 
+346.0,-1,False,Cutta Cutta Caves t/o on right 
+350.0,-1,False,Road junction on left Brice Road 
+351.0,-1,False,Radio tower on left 
+354.0,-1,False,Sign: M 70 
+361.0,-1,False,King River Bridge 
+363.0,-1,False,Parking Bay on left 
+364.0,-1,False,Sign: M 60 
+365.0,-1,False,Truck Parking bay & Rest area on left 
+369.0,-1,False,Sign: TC 620 
+374.0,-1,False,Sign: M 50 
+385.0,-1,False,Sturt Downs t/o on right 
+394.0,-1,False,Sign: M 30 
+404.0,-1,False,Sign: M 20 
+407.0,-1,False,Truck Parking Bay (large) on left 
+409.0,-1,False,Mataranka Station t/o right 
+420.0,100,False,Speed limit 100 Km/h Township services - fuel 
+422.0,80,False,Speed limit 80 MATARANKA Public telephone 
+424.0,60,False,Speed limit 60 Km/h Shop Post & Police Station 
+425.0,-1,False,Mataranka Hot Springs t/o on left 
+427.0,100,False,speed limit 100 
+428.0,-1,False,Roper Bar t/o on left 
+430.0,130,False,speed limit 130 
+435.0,-1,False,Elsey Cemetery t/o on left 
+436.0,-1,False,Sign: E 300 Elliott 300 Km 
+439.0,-1,False,Gorrie Station t/o on right 
+439.0,-1,False,Warloch Ponds bridge 
+456.0,-1,False,Sign: E 280 
+459.0,-1,False,Warloch Parking bay water 
+466.0,-1,False,Sign: E 270 
+476.0,-1,False,Sign: E 260 
+486.0,-1,False,Sign: E 250 
+488.0,-1,False,Gorrie Airstrip (disused) potential camp 
+496.0,-1,False,Sign: E 240 
+497.0,80,False,Speed limit 80 Km/h 
+498.0,60,False,Speed limit 60 Km/h LARRIMAH Township services 
+499.0,80,False,Speed Limit 80 Km/h 
+499.0,130,False,Speed Limit 130 Km/h 
+500.0,-1,False,Sign: Next Services Daly Waters 
+505.0,-1,False,No45 Hospital (ruins) site (Historical WW2 site) 
+516.0,-1,False,Sign: E220 
+528.0,-1,False,Flood warning Sign: 
+530.0,-1,False,Radio tower 8206 on left 
+534.0,-1,False,Maryfield Station t/o on left 
+536.0,-1,False,Sign: E 200 on right Parking bay 
+537.0,-1,False,Memorial – Alexander Forrest historic site 
+556.0,-1,False,Sign: E 180 
+562.0,-1,False,Parking bay on left 
+566.0,-1,False,Sign: E 170 
+570.0,-1,False,Radio Tower on left 
+576.0,-1,False,Sign: E 160 
+579.0,-1,False,Nutwood Downs t/o on left 
+582.0,-1,False,Sign: Hi Way Inn 9 Km 
+584.0,-1,False,Sign: Dunmarra 50 
+585.0,-1,False,Sign: Daly Waters t/o 2 Kms 
+585.0,-1,False,Sign: E 150 Highway Inn BP 
+587.0,-1,False,Daly Waters t/o on right 
+590.0,-1,False,Carpentaria Highway on left BP Roadhouse 
+591.0,-1,False,Sign: Dunmarra 44 
+596.0,-1,False,Sign: E 140 
+605.0,-1,False,Sign: Parking Bay 2 Km 
+606.0,-1,False,Sign: E 130 
+607.0,-1,False,Truck parking 
+610.0,-1,False,Radio tower 8300 on right 
+616.0,-1,False,Sign: E 120 
+625.0,-1,False,Buchannan Hwy t/o on right 
+626.0,-1,False,Sign: E 110 
+629.0,-1,False,Sign: Dunmarra 5 Km 
+632.0,-1,False,Sign: Dunmarra 2 Km 
+633.0,-1,False,Dunmarra Control Stop 2 on left 
+636.0,-1,False,Sign: E 100 Elliot 100 Km 
+646.0,-1,False,Sign: E 90 
+647.0,-1,False,Camp area on left 
+656.0,-1,False,Sign: E80 
+663.0,-1,False,Todd memorial on right 
+666.0,-1,False,Sign: E70 
+668.0,-1,False,Truck parking bay on left 
+670.0,-1,False,Sign: Flood Warning 
+673.0,-1,False,Truck Parking area on right 
+676.0,-1,False,Sign: E60 
+684.0,-1,False,Cattle grid 
+686.0,-1,False,Sign: E50 
+696.0,-1,False,Sign: E40 
+697.0,-1,False,George Redmond crossing 
+702.0,-1,False,Newcastle Creek Start of bridges (3) 
+706.0,-1,False,Sign: E30 
+708.0,-1,False,Truck parking bay on right 
+712.0,-1,False,Newcastle Waters t/o on right 
+716.0,-1,False,Parking area on left Toilets / water 
+716.0,-1,False,Sign: E 20 
+717.0,-1,False,Beetaloo t/o on left 
+718.0,-1,False,Radio Tower 8303 
+726.0,-1,False,Sign: E 10 
+730.0,-1,False,Sign: E 5 
+730.0,-1,False,Elliott airstrip On left 
+730.0,80,False,Speed limit 80 Km/h Police have caught 
+733.0,70,False,Speed limit 70 Km/h Solarcar teams 
+734.0,60,False,Speed limit 60 Km/h speeding here! 
+734.0,-1,False,Cattle grid 
+735.0,-1,False,ELLIOTT Police  Medical  Store  Fuel 
+737.0,70,False,Speed limit 70 Km/h 
+738.0,-1,False,Cattle grid 
+738.0,130,False,Speed limit 130 Km/h 
+746.0,-1,False,Parking bay on left Suitable campsite? 
+746.0,-1,False,Sign: TC 240 
+753.0,-1,False,Barkly Stock Route t/o on left 
+755.0,-1,False,Sign: Wandering Stock 
+756.0,-1,False,Sign: TC 230 
+766.0,-1,False,Sign: TC 220 parking bay on left 
+776.0,-1,False,Sign: TC 210 
+776.0,-1,False,Parking bay on left 
+786.0,-1,False,Sign: TC 200 
+787.0,-1,False,Cattle grid 
+794.0,-1,False,Radio tower 
+795.0,-1,False,Powell Creek H/S t/o on right 
+796.0,-1,False,Sign: TC 190 
+806.0,-1,False,Sign: TC 180 
+812.0,-1,False,Cattle Grid 
+815.0,-1,False,Parking bay on right 
+816.0,-1,False,Sign: TC 170 On left Solar panels 
+819.0,-1,False,Cattle grid 
+826.0,-1,False,RENNER SPRINGS Roadhouse  Fuel  Campsite 
+826.0,-1,False,Sign: TC 160 
+834.0,-1,False,Parking bay on left Radio tower 
+834.0,-1,False,Warning Sign: Wandering Stock 
+836.0,-1,False,Sign: TC 150 
+843.0,-1,False,Trucking Yards 
+844.0,-1,False,Helen Springs Station t/o on left 
+846.0,-1,False,Sign: TC 140 
+846.0,-1,False,Parking bay on left 
+851.0,-1,False,North Tomkinson Creek bridge 
+851.0,-1,False,Cattle grid 
+853.0,-1,False,Parking bay on left 
+856.0,-1,False,Sign: TC 130 
+858.0,-1,False,Parking bay on left 
+862.0,-1,False,Tomkinson Creek bridge 
+864.0,-1,False,Radio tower 
+865.0,-1,False,Muckaty Station t/o on right 
+866.0,-1,False,Sign: TC 120 
+873.0,-1,False,Cattle grid 
+875.0,-1,False,Bootoo Creek Mine t/o on left 
+876.0,-1,False,Sign: TC 110 
+884.0,-1,False,Kuerschner Creek bridge 
+885.0,-1,False,Banka Banka H/S t/o on right camping 
+886.0,-1,False,Sign: TC100 
+893.0,-1,False,Floodway 
+898.0,-1,False,Sign: TC 90 
+900.0,-1,False,Churchill’s Head t/o on right Old Stuart Hwy 
+902.0,-1,False,Radio tower 8308 on right 
+905.0,-1,False,Truck parking bays both sides 
+907.0,-1,False,Sign: TC 80 
+913.0,-1,False,Churchill’s Head t/o on right Old Stuart Hwy 
+914.0,-1,False,Attack Creek Rest Area bridge 
+915.0,-1,False,Stuart Memorial Parking Bay toilet 
+916.0,-1,False,Brunchilly Station t/o on left 
+916.0,-1,False,Sign: TC 70 
+922.0,-1,False,Cattle grid 
+926.0,-1,False,Sign: TC 60 
+927.0,-1,False,N.Hayward Creek bridge 
+928.0,-1,False,Hayward Creek bridge 
+931.0,-1,False,S.Hayward Creek bridge 
+936.0,-1,False,Gibson Creek bridge 
+937.0,-1,False,Sign: TC50 
+940.0,-1,False,Radio tower 8309 
+943.0,-1,False,Phillip Creek Station t/o on right 
+944.0,-1,False,Phillip Creek bridge 
+955.0,-1,False,Fire danger Sign: 
+956.0,-1,False,Floodway 
+956.0,-1,False,Sign: TC 30 
+960.0,-1,False,Parking bay on right 
+961.0,-1,False,Flynn memorial 
+961.0,-1,False,THREE WAYS Roadhouse Services Shell 
+962.0,-1,False,Barkly Hwy t/o on left To Queensland 
+972.0,-1,False,Sign: TC 15 
+974.0,-1,False,Floodway 
+975.0,-1,False,Old Telegraph Stn on left 
+976.0,-1,False,TENNANT CREEK bridge 
+977.0,-1,False,Sign: TC10 
+981.0,100,False,Speed limit 100 Km/h 
+983.0,80,False,Speed limit 80 Km/h enter urban area Tennant Creek 
+984.0,-1,False,Cross Roads caution 
+985.0,50,False,Speed Limit 50 TENNANT Town - All services 
+988.0,-1,False,Tennant Creek Control Turn Left after road junction 
+989.0,80,False,Speed limit 80 Km/h 
+991.0,100,False,Speed limit 100 Km/h 
+994.0,130,False,Speed Limit 130 Km/h 
+995.0,-1,False,Floodways 
+1000.0,-1,False,Sign: TT 300 Ti Tree 300 Kms 
+1009.0,-1,False,Floodway 
+1010.0,-1,False,Sign: TT 290 
+1014.0,-1,False,Parking Bay on right 
+1020.0,-1,False,Sign: TT 280 
+1021.0,-1,False,Floodway 
+1022.0,-1,False,Kelly Creek bridge 
+1029.0,-1,False,Radio tower on right 
+1030.0,-1,False,Sign: TT 270 
+1031.0,-1,False,Edinburgh Creek bridge 
+1034.0,-1,False,Floodway 
+1040.0,-1,False,Sign: TT 260 
+1045.0,-1,False,Power lines crossing road 
+1048.0,-1,False,Truck parking bay on left 
+1050.0,-1,False,Sign: TT 250 
+1051.0,-1,False,Radio Tower 8398 sign only 
+1053.0,-1,False,Gilbert Swamp 
+1059.0,-1,False,Floodway 
+1060.0,-1,False,Sign: TT 240 
+1060.0,-1,False,Floodway 
+1062.0,-1,False,Floodway 
+1063.0,-1,False,Mungkarta H/S t/o on right 
+1064.0,-1,False,McLaren Creek bridge 
+1067.0,-1,False,- 1071 Floodways 
+1070.0,-1,False,Sign: TT 230 
+1075.0,-1,False,Kurundi t/o on left 
+1075.0,-1,False,Bonney Creek bridge Windmill on right 
+1077.0,-1,False,Bonney Well parking bay on right 
+1080.0,-1,False,Sign: TT 220 
+1083.0,-1,False,Dixon Creek bridge 
+1089.0,-1,False,Devil’s Marbles t/o on left Public campsite 
+1090.0,-1,False,Sign: TT 210 Marbles – water 
+1091.0,-1,False,Devil’s Marbles t/o on left usually available 
+1100.0,-1,False,Sign: TT 200 
+1101.0,-1,False,WAUCHOPE Roadhouse services (say “walk – up”) 
+1101.0,-1,False,Floodways 
+1110.0,-1,False,Sign: TT 190 
+1111.0,-1,False,Singleton Station t/o on left 
+1120.0,-1,False,WYCLIFFE WELL Roadhouse (beware of aliens!)  
+1120.0,-1,False,Sign: TT 180 
+1124.0,-1,False,Beginning of 42km straight (longest single straight on entire route) 
+1131.0,-1,False,Sign: TT 170 
+1137.0,-1,False,Radio tower 8396 on right Parking bay 
+1138.0,-1,False,Ali Curung t/o on left 
+1139.0,-1,False,Railway Overpass The Ghan 
+1140.0,-1,False,Sign: TT 160 
+1150.0,-1,False,Sign: TT 150 Jacko’s Tree on left 
+1160.0,-1,False,Sign: TT 140 
+1165.0,-1,False,Parking bay on left 
+1168.0,-1,False,Davenport Ranges Road on left 
+1169.0,-1,False,Taylor Creek Rest Area Toilets 
+1170.0,-1,False,Sign: TT 130 
+1178.0,-1,False,WWII Barrow Creek Depot t/o on left 
+1180.0,-1,False,Sign: TT 120 
+1186.0,-1,False,Floodway 
+1190.0,-1,False,Sign: TT 110 
+1198.0,-1,False,! 
+1200.0,-1,False,Sign: TT 100 
+1207.0,-1,False,Radio Tower 8394 
+1208.0,-1,False,Neutral Junction t/o on left 
+1210.0,-1,False,Sign: TT 90 
+1211.0,-1,False,Barrow Creek bridge 
+1217.0,-1,False,Solar panels on right 
+1219.0,-1,False,Cattle grid - Floodway 
+1220.0,-1,False,Sign: TT 80 
+1224.0,-1,False,- 1229 Floodways 
+1230.0,-1,False,Sign: TT 70 
+1240.0,-1,False,Sign: TT 60 
+1241.0,-1,False,Stirling Station t/o on left 
+1244.0,-1,False,Willora Community t/o on left 
+1246.0,-1,False,Floodways 
+1250.0,-1,False,Parking bay – truck rest on right No caravans 
+1251.0,-1,False,Hospital Sign: (50k) 
+1252.0,-1,False,– 1267 Floodways 
+1260.0,-1,False,Sign: TT 40 
+1270.0,-1,False,Sign: TT 30 
+1275.0,-1,False,Hospital Sign: (25k) 
+1279.0,-1,False,Stuart Memorial on right Good parking bay 
+1280.0,-1,False,Sign: TT 20 
+1282.0,-1,False,Floodway 
+1287.0,-1,False,Skull Creek 
+1290.0,-1,False,Sign: TT 10 
+1291.0,-1,False,Floodway 
+1299.0,100,False,Speed limit 100 Km/h 
+1300.0,80,False,Speed limit 80 Km/h 
+1301.0,-1,False,Cattle grid 
+1301.0,60,False,Speed limit 60 Km/h Ti Tree township Roadhouse 
+1302.0,-1,False,Ti Tree Control Stop Roadhouse  Medical Centre & Police 
+1303.0,-1,False,Cattle grid 
+1303.0,100,False,Speed limit 100 Km/h 
+1304.0,130,False,Speed Limit 130 Km/h 
+1305.0,-1,False,Sign: AS 190 Alice Springs 190 Km 
+1311.0,-1,False,Mara Jutunta t/o left 
+1315.0,-1,False,Sign: AS 180 
+1316.0,-1,False,TiTree farm on right 
+1319.0,-1,False,Cattle grid 
+1325.0,-1,False,Sign: AS 170 
+1335.0,-1,False,Sign: AS 160 
+1345.0,-1,False,Sign: AS 150 
+1345.0,-1,False,Mt Denison t/o on right 
+1347.0,-1,False,Parking bay on right Good camping 
+1349.0,-1,False,Prowse Gap 
+1352.0,-1,False,Cattle grid 
+1355.0,-1,False,Sign: AS 140 
+1356.0,-1,False,Sign: Aileron 5Km on left 
+1356.0,-1,False,-1358 Floodways 
+1360.0,-1,False,Aileron t/o on right Ampol 
+1365.0,-1,False,Sign: AS 130 
+1369.0,-1,False,Ryan’s Well Rest Area on right water 
+1369.0,-1,False,Floodways 
+1375.0,-1,False,Sign: AS 120 
+1377.0,-1,False,Napperby Homestead t/o on right 
+1378.0,-1,False,Radio tower 8389 on right 
+1379.0,-1,False,Native Gap 
+1381.0,-1,False,Grid 
+1385.0,-1,False,Sign: AS 110 
+1395.0,-1,False,Sign: AS 100 
+1400.0,-1,False,Connor’s Well parking bay on right 
+1402.0,-1,False,Solar panels on right 
+1405.0,-1,False,Sign: AS 90 
+1415.0,-1,False,Sign: AS 80 
+1420.0,-1,False,Sign: Hospital 75 
+1425.0,-1,False,Sign: AS 70 
+1427.0,-1,False,Plenty Hwy t/o on left 
+1428.0,-1,False,Cattle grid 
+1430.0,-1,False,Truck parking bay on left Trucks only 
+1435.0,-1,False,Sign: AS 60 
+1436.0,-1,False,Yamba Station t/o on left 
+1438.0,-1,False,Burt Creek Warburton memorial 
+1441.0,-1,False,Harry Creek 
+1443.0,-1,False,Arltunga drive t/o on left 
+1445.0,-1,False,Sign: AS 50 
+1447.0,-1,False,McGrath Creek 
+1448.0,-1,False,Cattle grid 
+1455.0,-1,False,Sign: AS 40 
+1461.0,-1,False,Radio tower 8397 
+1462.0,-1,False,Crossing TROPIC OF CAPRICORN (parking bay on right) 
+1463.0,-1,False,16 Mile Creek 
+1465.0,-1,False,Sign: AS 30 
+1471.0,-1,False,Bond Springs airstrip Sign 
+1471.8,110,False,Speed limit 110 Km/h: 
+1472.0,-1,False,Parking bay on right 
+1473.0,-1,False,Tanami Road t/o on right (to NW Australia) 
+1473.0,-1,False,Cattle Grid 
+1475.0,-1,False,Parking area on left 
+1476.0,-1,False,Railway overpass 
+1480.0,-1,False,Colyer Creek bridge 
+1481.0,-1,False,Parking area on left 
+1483.0,-1,False,Sign: AS 10 
+1486.0,80,False,Speed limit 80 Km/h 
+1487.0,-1,False,Charles River Geoff Mott Bridge 
+1488.0,70,False,Speed limit 70 Km/h Divided road Slow left bend 
+1489.0,50,False,Speed limit 50 Km/h 
+1492.0,-1,True,Wills Terrace traffic Lights Keep Right 
+1492.0,-1,True,McDonalds traffic Lights Straight On 
+1492.0,-1,True,Stott Terrace traffic Lights Straight On 
+1492.0,-1,False,Skinner St 
+1493.0,-1,False,Turn Left Treager Avenue Follow Signs 
+1494.0,-1,False,Telegraph Terrace Turn left 
+1495.0,-1,False,Roundabout Take 3rd exit Stuart Highway 
+1495.0,-1,False,Palm Circuit t/o on left 
+1499.0,90,False,Speed limit 90 Km/h 
+1499.0,80,False,Speed limit 80 Km/h 
+1500.0,100,False,Speed limit 100 Km/h 
+1503.0,-1,False,Stuart Hwy 
+1504.0,-1,False,Railway Crossing CAUTION 
+1505.0,-1,False,Floodway 
+1505.0,-1,False,Railway Crossing CAUTION 
+1506.0,-1,False,Floodway 
+1506.0,-1,False,Sign: Kulgera 260 Kulgera 260 Km 
+1508.0,-1,False,Roe Creek bridge 
+1509.0,110,False,Speed Limit 110 Km/h 
+1509.0,-1,False,Floodways 
+1510.0,-1,False,Cattle yards on right 
+1514.0,-1,False,Correctional Centre (Jail) t/o on right plates were made!) 
+1514.0,-1,False,- 1517 Floodways 
+1515.0,130,False,Speed Limit 130 Km/h 
+1516.0,-1,False,Sign: KU 250 
+1526.0,-1,False,Sign: KU 240 
+1528.0,-1,False,Solar panels on left 
+1531.0,-1,False,Truck parking bay on left No camping 
+1535.0,-1,False,Orange Creek bridge 
+1544.0,-1,False,Floodway 
+1546.0,-1,False,Sign: KU 220 
+1556.0,-1,False,Mt Polhill rest area on right water 
+1561.0,-1,False,Owen Springs Reserve t/o on right 
+1564.0,-1,False,Solar panels on left 
+1569.0,-1,False,Rainbow Valley t/o on left 
+1576.0,-1,False,Sign: KU 190 
+1577.0,-1,False,Truck parking bay on right 
+1583.0,-1,False,STUARTS WELL roadhouse services On right Shell 
+1587.0,-1,False,Hugh River Bridge 
+1588.0,-1,False,Orange Creek H/S t/o on left 
+1589.0,-1,False,Cannonball Run Memorial on left 
+1593.0,-1,False,Maryvale t/o on left 
+1596.0,-1,False,Sign: KU 170 
+1602.0,-1,False,Truck parking bay on right 
+1605.0,-1,False,Solar panels on left 
+1606.0,-1,False,Sign: KU 160 
+1611.0,-1,False,Maloney Creek bridge 
+1616.0,-1,False,Sign: KU 150 
+1617.0,-1,False,Finke rest area on left toilets 
+1617.0,-1,False,Finke River Bridge 
+1617.0,-1,False,Finke River bridge 
+1621.0,-1,False,Airstrip on left Henbury Station 
+1622.0,-1,False,Kings Canyon t/o on right 
+1626.0,-1,False,Sign: KU 140 
+1636.0,-1,False,Sign: KU 130 
+1640.0,-1,False,Truck parking bay on right 
+1642.0,-1,False,Palmer River bridge 
+1645.0,-1,False,Solar panels on left 
+1646.0,-1,False,Sign: KU 120 
+1656.0,-1,False,Sign: KU 110 
+1659.0,-1,False,Desert Oaks rest area on right water 
+1661.0,-1,False,Salt Creek bridge 
+1664.0,-1,False,Truck parking bay on left Kronenburg? 
+1666.0,-1,False,Sign: KU 100 
+1676.0,-1,False,Sign: KU 90 
+1678.0,-1,False,Idracowra station t/o on left 
+1686.0,-1,False,Sign: KU 80 
+1690.0,100,False,Speed limit 100 Km/h 
+1691.0,80,False,Speed limit 80 Km/h 
+1691.0,-1,False,Radio tower 
+1691.0,-1,False,ERLDUNDA Roadhouse Services  Telstra mobile 
+1692.0,100,False,Speed limit 100 Km/h 
+1692.0,-1,False,Uluru-KataTjuta (Ayers Rock) t/o on right 
+1692.0,100,False,Speed limit 100 Km/h 
+1693.0,-1,False,Sign: Kulgera 73 
+1694.0,-1,False,Airstrip on left 
+1694.0,130,False,Speed limit 130 Km/h 
+1696.0,-1,False,Sign: KU 70 
+1706.0,-1,False,Sign: KU 60 
+1709.0,-1,False,Lyndavale t/o on right 
+1710.0,-1,False,Truck Parking bay on left 
+1716.0,-1,False,Sign: KU 50 
+1726.0,-1,False,Sign: KU 40 
+1736.0,-1,False,Sign: KU 30 
+1746.0,-1,False,Sign: K 20 
+1752.0,-1,False,Kalamurta Creek good campsite On left 
+1754.0,-1,False,Solar panels on left 
+1756.0,-1,False,Sign: K 10 
+1766.0,-1,False,Kulgera Control Stop 
+1767.0,-1,False,Sign: SA Border 20 Km 
+1771.0,-1,False,Parking area on right 
+1775.0,-1,False,Truck parking bay on right 
+1782.0,-1,False,Mt Cavanagh Station t/o on right 
+1785.0,-1,False,Victory Downs Station t/o on right 
+1786.0,-1,False,Sign: Marla 160 
+1787.0,-1,False,Parking area on right 
+1787.0,110,False,Speed Limit 110 Km/h Observer Timing Point 
+1792.0,-1,False,Tourist Sign 
+1793.0,-1,False,Cattle grid 
+1796.0,-1,False,Sign: M 149 Marla 149 Km 
+1806.0,-1,False,Sign: M 139 
+1807.0,-1,False,Highway marker 20 
+1807.0,110,False,Speed Limit 110 Km/h 
+1809.0,-1,False,Narrow Bridge 
+1815.0,-1,False,Next phone 10 Km 
+1816.0,-1,False,Sign: M 129 
+1817.0,-1,False,Highway marker 30 
+1818.0,-1,False,Solar panels 
+1820.0,-1,False,Sign: Marryat rest area 5 Km 
+1825.0,-1,False,Marryat Creek Bridge 
+1825.0,-1,False,Marryat Rest Area Emergency telephone 
+1826.0,-1,False,Sign: M 119 
+1827.0,-1,False,Highway marker 40 
+1830.0,-1,False,Grid 
+1835.0,-1,False,De Rose Hill Station t/o on left 
+1836.0,-1,False,Sign: M 109 
+1837.0,-1,False,Highway marker 50 
+1837.0,-1,False,Cattle grid 
+1838.0,-1,False,Eateringinna Creek Bridge 
+1842.0,-1,False,Cattle grid 
+1846.0,-1,False,Sign: M 99 
+1847.0,-1,False,Highway marker 60 
+1849.0,-1,False,Cattle grid 
+1853.0,-1,False,Cattle grid 
+1856.0,-1,False,Sign: M 89 
+1857.0,-1,False,Highway marker 70 
+1860.0,-1,False,Agnes Creek Parking bay on left 
+1860.0,-1,False,Agnes Creek bridge 
+1862.0,-1,False,Cattle grid 
+1866.0,-1,False,Sign: M 79 
+1867.0,-1,False,Highway marker 80 
+1869.0,-1,False,Cattle grid Granite Downs Stn 
+1876.0,-1,False,Sign: M 68 
+1877.0,-1,False,Highway marker 90 
+1878.0,-1,False,Airstrip on left 
+1878.0,-1,False,Tarcoonyinna Creek bridge 
+1881.0,-1,False,Cattle grid 
+1883.0,-1,False,Solar panels on left 
+1884.0,-1,False,Railway bridge 
+1886.0,-1,False,Sign: M 59 
+1887.0,-1,False,Highway marker 100 
+1891.0,-1,False,Parking bay on left 
+1896.0,-1,False,Sign: M 49 
+1897.0,-1,False,Highway marker 110 
+1900.0,-1,False,Cattle grid 
+1901.0,-1,False,Granite Downs H/S t/o on left 
+1903.0,-1,False,Indulkana Creek bridge 
+1906.0,-1,False,Sign: M 39 
+1907.0,-1,False,Highway marker 120 
+1909.0,-1,False,Cattle grid 
+1916.0,-1,False,Sign: M 29 
+1917.0,-1,False,Highway marker 130 
+1923.0,-1,False,Cattle grid Wellbourne Hill Stn 
+1926.0,-1,False,Sign: M 19 
+1941.0,-1,False,Mintabie opal field t/o on right 
+1944.0,-1,False,Traffic Monitor 
+1945.0,-1,False,Quarantine Bin Eat your fruit first! 
+1945.0,-1,False,MARLA BORE Roadhouse Telstra Mobile 
+1945.0,-1,False,Cattle Grid 
+1945.0,-1,False,Oodnadatta Track t/o on left 
+1946.0,110,False,Speed limit 110 Km/h 
+1946.0,-1,False,Wallatinna airstrip 
+1947.0,-1,False,Highway marker 160 on right 
+1949.0,-1,False,Cattle Grid 
+1955.0,-1,False,Sign: CP 223 Coober Pedy 223 Km 
+1957.0,-1,False,Highway marker 170 
+1957.0,-1,False,Cattle Grid 
+1965.0,-1,False,Sign: CP 213 
+1967.0,-1,False,Highway marker 180 
+1972.0,-1,False,Cattle grid Wintinna Stn 
+1973.0,-1,False,Camp area on right 
+1975.0,-1,False,Sign: CP 203 
+1977.0,-1,False,Highway marker 190 
+1979.0,-1,False,Parking bay on right 
+1985.0,-1,False,Sign: CP 193 
+1987.0,-1,False,Highway marker 200 on right Camp area 
+1988.0,-1,False,Cattle grid 
+1993.0,-1,False,Wintinna Creek bridge 
+1995.0,-1,False,Sign: CP 183 
+1997.0,-1,False,Grid 
+1998.0,-1,False,Tower Creek bridge 
+2002.0,-1,False,Solar panels on left 
+2004.0,-1,False,Wintinna H/S t/o on left 
+2005.0,-1,False,Sign: CP 173 
+2007.0,-1,False,Highway marker 220 
+2007.0,-1,False,Cattle grid 
+2013.0,-1,False,Apreetinna Creek bridge 
+2016.0,-1,False,Cattle grid 
+2017.0,-1,False,Highway marker 230 
+2021.0,-1,False,Sign: Cadney Park 5 
+2024.0,-1,False,Cattle grid 
+2025.0,-1,False,Sign: CP 153 
+2025.0,-1,False,CADNEY HOMESTEAD All Roadhouse Services 
+2026.0,110,False,Speed Limit 110 Km/h 
+2027.0,-1,False,Highway marker 240 
+2027.0,-1,False,Mt Willoughby Station t/o on left 
+2032.0,-1,False,Cattle grid 
+2035.0,-1,False,Sign: CP 143 
+2037.0,-1,False,Highway marker 250 
+2038.0,-1,False,Cattle grid 
+2045.0,-1,False,Sign: CP 133 
+2046.0,-1,False,Cattle grid 
+2047.0,-1,False,Highway marker 260 
+2051.0,-1,False,Cattle grid 
+2055.0,-1,False,Sign: CP 123 
+2055.0,-1,False,Terminos Creek bridge 
+2055.0,-1,False,Radio tower on right 
+2057.0,-1,False,Highway marker 270 
+2065.0,-1,False,Sign: CP 113 
+2067.0,-1,False,Highway marker 280 Cattle grid 
+2075.0,-1,False,Sign: CP 103 
+2077.0,-1,False,Highway marker 290 
+2082.0,-1,False,Cattle grid 
+2085.0,-1,False,Sign: CP 93 
+2086.0,-1,False,Rest area on right 
+2087.0,-1,False,Highway marker 300 
+2089.0,-1,False,Pootnoura Channel No 3 bridge 
+2091.0,-1,False,Radio tower on right 
+2094.0,-1,False,Pootnoura Channel No: 2 bridge 
+2095.0,-1,False,Sign: CP 83 
+2096.0,-1,False,Pootnoura Channel No: 1 bridge 
+2096.0,-1,False,Highway marker 310 
+2098.0,-1,False,Sign: Pootnoura 5 Km 
+2103.0,-1,False,Pootnoura rest area on left Emergency phone 
+2106.0,-1,False,Highway marker 320 
+2115.0,-1,False,Sign: CP 63 
+2116.0,-1,False,Highway marker 330 
+2120.0,-1,False,Solar panels on left 
+2125.0,-1,False,Sign: CP 53 
+2126.0,-1,False,Highway marker 340 
+2135.0,-1,False,Sign: CP 43 
+2136.0,-1,False,Double cattle grid (Dog Fence) at 7000km it is the worlds longest fence 
+2136.0,-1,False,Highway marker 350 Mt Clarance Stn 
+2138.0,-1,False,Bridge 
+2145.0,-1,False,Sign: CP 33 Opal fields 
+2146.0,-1,False,Highway marker 360 
+2148.0,-1,False,Mt Clarence H/S t/o on right 
+2155.0,-1,False,Sign: CP 23 
+2155.0,-1,False,Cottonbush Creek Bridge 
+2156.0,-1,False,The Breakaways t/o on left 
+2156.0,-1,False,Highway marker 370 
+2160.0,-1,False,Fourteen Mile Field t/o on left 
+2165.0,-1,False,Sign: CP 13 
+2166.0,-1,False,Highway marker 380 
+2174.0,-1,False,Truck parking bay on right 
+2174.0,-1,False,Mabel Creek H/S t/o on right 
+2175.0,-1,False,Sign: CP 3 Airstrip On right 
+2176.0,-1,False,Oodnadatta track t/o on left 
+2176.0,-1,False,Highway marker 390 
+2178.0,-1,False,Coober Pedy / Oodnadatta t/o Flat Hill Road 
+2181.0,-1,False,Parking bay on right Truck on pole 
+2182.0,110,False,Speed Limit 110 Km/h 
+2182.0,-1,False,Sign: Monument on left 
+2183.0,-1,False,William Creek t/o on left 
+2187.0,-1,False,Sign: G 252 Glendambo 252 Km 
+2188.0,-1,False,Highway marker 400 
+2190.0,-1,False,Monument on left 
+2198.0,-1,False,Highway marker 410 
+2207.0,-1,False,Sign: G 232 
+2208.0,-1,False,Highway marker 420 
+2216.0,-1,False,Cattle grid – Ingomar Station 
+2217.0,-1,False,Sign: G 212 
+2218.0,-1,False,Highway marker 430 
+2225.0,-1,False,Parking bay on left 
+2227.0,-1,False,Sign: G 202 
+2228.0,-1,False,Highway marker 440 
+2231.0,-1,False,Track on right 
+2235.0,-1,False,Stack large tyres on left 
+2238.0,-1,False,Sign: G192 
+2244.0,-1,False,Track on right 
+2247.0,-1,False,Sign: G 182 
+2248.0,-1,False,Cattle grid & Highway marker 460 
+2249.0,-1,False,Brumby Creek bridge 
+2257.0,-1,False,Sign: G 172 
+2260.0,-1,False,Ingomar H/S t/o on right 
+2265.0,-1,False,G 162 
+2269.0,-1,False,Ingomar rest area on right Emergency phone 
+2274.0,-1,False,Cattle grid 
+2278.0,-1,False,Highway marker 490 
+2283.0,-1,False,Old Peake Creek bridge 
+2286.0,-1,False,Dresley Creek bridge 
+2287.0,-1,False,Cattle grid – Twins station 
+2288.0,-1,False,Highway marker 500 
+2289.0,-1,False,McDouall Peak Station t/o on right 
+2290.0,-1,False,Mirikata H/S t/o on left 
+2293.0,-1,False,Parking Bay on left 
+2295.0,-1,False,Cattle grid 
+2298.0,-1,False,Highway marker 510 
+2298.0,-1,False,G132 
+2305.0,-1,False,The Twins H/S t/o on left 
+2306.0,-1,False,Cattle grid Bulgunnia Stn 
+2306.0,-1,False,Parking bay on left 
+2308.0,-1,False,Sign: G 122 
+2312.0,-1,False,Highway marker 520 
+2313.0,-1,False,Cattle grid 
+2318.0,-1,False,Sign: G 112 
+2318.0,-1,False,Highway marker 530 
+2321.0,-1,False,Commonwealth Hill t/o on right 
+2322.0,-1,False,Cattle grid Mt Eba Stn 
+2327.0,-1,False,Airstrip warning 
+2327.0,-1,False,This section of road is an emergency airstrip for the Flying Doctor 
+2329.0,-1,False,Sign: G 102 
+2334.0,-1,False,Radio tower on right 
+2338.0,-1,False,Highway marker 550 
+2346.0,-1,False,Cattle grid 
+2347.0,-1,False,Bon Bon rest area on left Emergency phone 
+2348.0,-1,False,Highway marker 560 
+2349.0,-1,False,Sign: G 82 
+2355.0,-1,False,Mt Eba t/o on left 
+2358.0,-1,False,Parking bay 
+2358.0,-1,False,Highway marker 570 
+2359.0,-1,False,Sign: G 72 
+2368.0,-1,False,Parking bay on right 
+2368.0,-1,False,Highway marker 580 
+2369.0,-1,False,Solar panels on right 
+2370.0,-1,False,Sign: G 62 
+2378.0,-1,False,Highway marker 590 
+2380.0,-1,False,Kingoonya t/o on right 
+2380.0,-1,False,Sign: G 52 Wirrula t/o 
+2382.0,-1,False,Cattle grid 
+2386.0,-1,False,Radio tower on right 
+2388.0,-1,False,Highway marker 600 
+2389.0,-1,False,Sign: G 42 
+2398.0,-1,False,Highway marker 610 
+2401.0,-1,False,Sign: G 32 
+2402.0,-1,False,Cattle grid 
+2404.0,-1,False,Parking bay on left 
+2408.0,-1,False,Highway marker 620 
+2409.0,-1,False,Sign: G 22 
+2413.0,-1,False,Cattle grid – Coondambo Station 
+2415.0,-1,False,Cattle grid 
+2418.0,-1,False,Highway marker 630 
+2420.0,-1,False,Sign: G 12 
+2422.0,-1,False,Mt Vivian H/S t/o on left 
+2423.0,-1,False,Parking bay on left 
+2427.0,-1,False,Cattle grid 
+2428.0,-1,False,Highway marker 640 
+2431.0,-1,False,Tarcoola t/o on right 
+2432.0,-1,False,Glendambo Control Stop 
+2432.0,-1,False,Rejoin Stuart Hwy turn left 
+2433.0,110,False,Speed Limit Sign: 110 Km/h 
+2437.0,-1,False,Cattle grid 
+2438.0,-1,False,Highway marker 650 
+2441.0,-1,False,Sign: PI 103 Pimba 103 Kms 
+2443.0,-1,False,Cattle grid 
+2444.0,-1,False,Railway bridge 
+2445.0,-1,False,Sign: P98 
+2448.0,-1,False,Highway marker 660 
+2451.0,-1,False,Cattle grid 
+2452.0,-1,False,Sign: PI 93 
+2455.0,-1,False,Parking bay on right 
+2458.0,-1,False,Highway marker 670 
+2461.0,-1,False,Sign: PI 83 
+2462.0,-1,False,Cattle grid 
+2467.0,-1,False,Cattle grid Wirraminna Station 
+2468.0,-1,False,Highway marker 680 
+2470.0,-1,False,Solar panels on left 
+2471.0,-1,False,Sign: PI 73 
+2477.0,-1,False,Cattle grid 
+2478.0,-1,False,Highway marker 690 
+2481.0,-1,False,Sign: PI 63 
+2486.0,-1,False,Wirraminna H/S t/o on right 
+2488.0,-1,False,Highway marker 700 
+2491.0,-1,False,Sign: PI 53 
+2498.0,-1,False,Highway marker 710 
+2500.0,-1,False,Parking bay on left 
+2501.0,-1,False,Sign: PI 43 
+2502.0,-1,False,Lake Hart on left 
+2504.0,-1,False,Parking bay Lake Hart rest area On left 
+2508.0,-1,False,Highway marker 720 
+2510.0,-1,False,Parking bay on right 
+2513.0,-1,False,Eucolo Creek bridge 
+2520.0,-1,False,Cattle grid Arcoona Stn 
+2521.0,-1,False,Parking bay on right 
+2522.0,-1,False,Sign: PI 23 
+2523.0,-1,False,Parking bay on right 
+2527.0,-1,False,Sign: PI 18 
+2528.0,-1,False,Highway marker 740 
+2531.0,-1,False,Cattle grid 
+2536.0,-1,False,Sign: PI 8 
+2538.0,-1,False,Highway marker 750 
+2542.0,-1,False,Cattle grid 
+2544.0,-1,False,Pimba / Woomera t/o on left Pimba services 
+2545.0,110,False,Speed Limit Sign: 110 Kmh OBEY SPEED LIMITS 
+2547.0,-1,False,Cattle grid 
+2548.0,-1,False,Highway marker 760 
+2548.0,-1,False,Sign: PA 167 Port Augusta 167 Km 
+2556.0,-1,False,Cattle grid 
+2558.0,-1,False,Radio tower on right 
+2558.0,-1,False,Highway marker 770 
+2561.0,-1,False,Parking bay on right 
+2561.0,110,False,Caution – Police speed check area – 110 Kmh limit 
+2563.0,-1,False,Sign: PA 152 
+2566.0,-1,False,Railway overpass 
+2568.0,-1,False,Highway marker 780 
+2571.0,-1,False,Wirrappa R/S t/o on right 
+2572.0,-1,False,Cattle grid Oakden Hills Station 
+2578.0,-1,False,Highway marker 790 
+2578.0,-1,False,Sign: PA 137 
+2579.0,-1,False,Cattle grid 
+2582.0,-1,False,Mt Gunson mines t/o on left 
+2584.0,-1,False,Cattle grid 
+2585.0,-1,False,Sign: PA 132 
+2588.0,-1,False,Highway marker 800 
+2595.0,-1,False,Sign: PA 122 
+2595.0,-1,False,Cattle grid 
+2598.0,-1,False,Highway marker 810 
+2601.0,-1,False,Parking bay on right 
+2605.0,-1,False,Sign: PA 112 
+2605.0,-1,False,Oakden Hills H/S t/o on right 
+2606.0,-1,False,Woocalla Creek 
+2608.0,-1,False,Highway marker 820 
+2610.0,-1,False,Sign: PA 107 
+2610.0,-1,False,Salt lakes Left and right Ironstone Lagoon 
+2614.0,-1,False,Parking bay on right 
+2615.0,-1,False,Sign: PA 102 
+2617.0,-1,False,Cattle grid 
+2618.0,-1,False,Highway marker 830 
+2620.0,-1,False,Sign: PA 97 
+2622.0,-1,False,Parking bay on left 
+2625.0,-1,False,Sign: PA 92 
+2628.0,-1,False,Highway marker 840 
+2630.0,-1,False,Sign: PA 87 
+2631.0,-1,False,Parking bay on right 
+2632.0,-1,False,Cattle grid 
+2635.0,-1,False,Sign: PA 82 
+2636.0,-1,False,Parking bay on right 
+2637.0,-1,False,Pernatty Station t/o on left 
+2638.0,-1,False,Highway marker 850 
+2640.0,-1,False,Sign: PA 77 
+2641.0,-1,False,Cattle grid 
+2645.0,-1,False,Sign: PA 72 
+2647.0,-1,False,Cattle grid 
+2648.0,-1,False,Highway marker 860 
+2650.0,-1,False,Sign: PA 67 
+2651.0,-1,False,Kootaberra H/S t/o on left 
+2655.0,-1,False,Ranges view rest area on right Toilets  water  lights 
+2656.0,-1,False,Cattle grid 
+2658.0,-1,False,Highway marker 870 
+2660.0,-1,False,Sign: PA 57 
+2663.0,-1,False,Cattle grid 
+2665.0,-1,False,Rail crossing Water 
+2666.0,-1,False,Yudnapinna H/S t/o on right 
+2668.0,-1,False,Highway marker 880 
+2670.0,-1,False,Sign: PA 47 
+2672.0,-1,False,Parking bay on right 
+2674.0,-1,False,Cattle grid 
+2675.0,-1,False,Sign: PA 42 
+2677.0,-1,False,Causeway start 
+2678.0,-1,False,Highway marker 890 
+2680.0,-1,False,Sign: PA 37 
+2682.0,-1,False,Parking bay on left 
+2683.0,-1,False,Cattle grid 
+2685.0,-1,False,Sign: PA 32 
+2688.0,-1,False,Highway marker 900 
+2689.0,-1,False,Radio tower on right 
+2690.0,-1,False,Sign: PA 27 
+2691.0,-1,False,Cattle grid 
+2695.0,-1,False,Sign: PA 22 
+2697.0,-1,False,Cattle grid 
+2698.0,-1,False,Highway marker 910 
+2705.0,-1,False,Cattle grid Sign PA 12 
+2707.0,-1,False,Corraberra H/S t/o on right 
+2708.0,-1,False,Cattle grid 
+2708.0,-1,False,Highway marker 920 
+2710.0,-1,False,Sign: PA 7 
+2712.0,-1,False,Yorkey’s crossing t/o on left 
+2712.0,-1,False,Sign: PA 5 
+2713.0,80,False,Speed limit 80 Km/h Entering Port Augusta urban area 
+2713.0,60,False,Speed limit 60 Km/h 
+2714.0,-1,False,TURN LEFT Highway One 
+2714.2,-1,False,Service Station (Shell) on left 
+2714.3,-1,False,Pedestrian Lights 
+2714.6,-1,True,Traffic Lights Straight on 
+2714.9,-1,False,Bridge 
+2715.5,-1,False,Town Centre t/o on right 
+2715.8,-1,True,Traffic Lights Straight on 
+2716.3,-1,True,Traffic Lights Straight on 
+2716.5,-1,False,Left lane ends caution 
+2717.6,-1,False,Railway overpass 
+2717.9,-1,False,Divided road 
+2718.4,80,False,Speed limit 80 Km/h 
+2718.8,-1,False,Large body of water on left – prepare to stop at BP services 
+2719.0,-1,False,Port Augusta Control Stop BP PORT AUGUSTA TRUCK STOP 
+2720.0,-1,False,Rejoin Stuart Hwy turn left 
+2721.0,100,False,Speed limit 100 kmh 
+2721.0,-1,False,Port Augusta Jail 
+2722.0,-1,False,Railway Bridge 
+2725.0,-1,False,B83 Quorn t/o left 
+2726.0,-1,False,Divided Road ends 
+2726.0,-1,False,Highway Marker 10 
+2726.0,-1,False,Bridge 
+2727.0,-1,False,Sign PG 59 Port Germain 
+2732.0,-1,False,Power lines cross 
+2732.0,-1,False,Power lines Very Cross !! 
+2736.0,-1,False,Highway Marker 20 
+2737.0,-1,False,Overtaking lane begins 
+2737.0,-1,False,Sign PG49 
+2738.0,-1,False,Overtaking lane ends 
+2739.0,-1,False,Rest Area On left 
+2739.0,-1,False,B56 Wilmington t/o Left (to Sydney) 
+2742.0,-1,False,Sign PG44 
+2744.0,-1,False,Overtaking lane begins 
+2746.0,-1,False,Overtaking lane ends 
+2747.0,-1,False,Sign PG39 
+2751.0,-1,False,Highway Marker 35 
+2751.0,-1,False,Sign PG34 
+2756.0,-1,False,Overtaking lane begins 
+2756.0,-1,False,Sign PG29 
+2757.0,-1,False,Overtaking lane ends 
+2761.0,-1,False,Highway Marker 45 
+2762.0,-1,False,Sign PG24 
+2764.0,-1,False,Mambray Creek Rest Area On left 
+2766.0,-1,False,Highway Marker 50 
+2767.0,-1,False,Sign PG19 
+2771.0,-1,False,Overtaking lane begins 
+2772.0,-1,False,Overtaking lane ends 
+2773.0,-1,False,Baroota t/o on right 
+2776.0,-1,False,Highway Marker 60 
+2777.0,-1,False,Sign PG9 
+2778.0,-1,False,Rest Area On right 
+2781.0,-1,False,Rail Overpass 
+2782.0,-1,False,Sign PG4 
+2784.0,-1,False,Murraytown t/o left 
+2785.0,-1,False,Port Germain t/o right 
+2786.0,-1,False,Highway Marker 70 
+2788.0,-1,False,Rest Area On left 
+2789.0,-1,False,Overtaking lane begins 
+2790.0,-1,False,Overtaking lane ends 
+2791.0,-1,False,Highway Marker 75 
+2791.0,-1,False,Telowie Gorge t/o left 
+2796.0,-1,False,Highway Marker 80 
+2796.0,-1,False,Telowie Gorge t/o left 
+2798.0,-1,False,Sign PP11 Port Pirie 11 km 
+2799.0,-1,False,Overtaking lane begins 
+2800.0,-1,False,Overtaking lane ends 
+2801.0,100,False,Speed limit 100kmh Careful ! 
+2803.0,-1,False,B89 Pt Pirie t/o right 
+2806.0,-1,False,Highway Marker 90 
+2807.0,-1,False,BP Servo On left 
+2808.0,110,False,Speed 110 kmh 
+2810.0,-1,False,Sign CB19 Crystal Brook 19 Km 
+2810.0,-1,False,Mobil Service Station On left 
+2812.0,80,False,Speed Limit 80kmh Warnertown 
+2812.0,-1,False,Warnertown 
+2812.0,110,False,Speed Limit 110kmh 
+2814.0,-1,False,Overtaking lane begins 
+2816.0,-1,False,Highway Marker 100 
+2816.0,-1,False,Overtaking lane ends 
+2817.0,-1,False,B79 Gladstone t/o left 
+2819.0,-1,False,Sign CB9 
+2820.0,-1,False,Overtaking lane begins 
+2823.0,-1,False,Overtaking lane ends 
+2825.0,-1,False,B64 Crystal Brook t/o left 
+2826.0,-1,False,Highway Marker 110 
+2826.0,-1,False,Rail Overpass 
+2828.0,-1,False,Bridge Crystal Brook 
+2830.0,-1,False,Overtaking lane begins 
+2832.0,-1,False,Overtaking lane ends 
+2834.0,-1,False,Rest Area On left 
+2835.0,-1,False,Narrow bridge 
+2836.0,-1,False,Highway Marker 120 
+2839.0,-1,False,Pt Broughton t/o right 
+2839.0,-1,False,Broughton River bridge 
+2841.0,-1,False,Highway Marker 125 
+2844.0,-1,False,Sign R9 Red Hill 
+2846.0,-1,False,Highway Marker 130 
+2847.0,-1,False,Overtaking lane begins 
+2848.0,-1,False,Overtaking lane ends 
+2851.0,-1,False,Highway Marker 135 
+2853.0,-1,False,Redhill t/o left 
+2853.0,-1,False,Overtaking lane begins 
+2856.0,-1,False,Highway Marker 140 
+2856.0,-1,False,Overtaking lane ends 
+2857.0,-1,False,Sign S23 Snowtown 
+2861.0,-1,False,Rest Area On left 
+2862.0,-1,False,Sign S18 
+2866.0,-1,False,Highway Marker 150 
+2872.0,-1,False,Overtaking lane begins 
+2872.0,-1,False,Sign S8 
+2873.0,-1,False,Overtaking lane ends 
+2876.0,-1,False,Highway Marker 160 
+2876.0,-1,False,Trucking Rest Area Left 
+2879.0,-1,False,BP Service Station On Right 
+2880.0,-1,False,Brinkworth t/o left 
+2881.0,-1,False,Snowtown t/o left 
+2885.0,-1,False,Overtaking lane begins 
+2887.0,-1,False,Overtaking lane ends 
+2891.0,-1,False,Highway Marker 175 
+2894.0,-1,False,Loch Ness Monster On left 
+2897.0,80,False,Speed 80kmh 
+2898.0,-1,False,Lochiel Township facilities 
+2899.0,110,False,Speed 110 kmh 
+2901.0,-1,False,Rest Area left 
+2902.0,-1,False,Overtaking lane begins 
+2903.0,-1,False,Overtaking lane ends 
+2906.0,-1,False,Highway Marker 190 
+2907.0,-1,False,Balaklava t/o left 
+2913.0,-1,False,Sign PW12 Port Wakefield 
+2916.0,-1,False,Highway Marker 200 
+2917.0,-1,False,Overtaking lane begins 
+2919.0,-1,False,Overtaking lane ends 
+2923.0,-1,False,Sign PW 7 
+2926.0,-1,False,Highway Marker 210 
+2927.0,-1,False,Traffic merging from Right CAUTION 
+2928.0,-1,False,Sign PW2 
+2928.0,80,False,Speed 80 kmh 
+2929.0,50,False,Speed 50 kmh 
+2929.0,-1,False,Port Wakefield All facilities 
+2930.0,80,False,Speed 80kmh 
+2930.0,-1,False,Cable Lane Barrier 
+2931.0,110,False,Speed 110 kmh 
+2932.0,-1,False,2 lane divided Highway to Adelaide Remain Careful 
+2936.0,-1,False,Highway Marker 220 
+2938.0,-1,False,Sign D26 Dublin 
+2940.0,-1,False,Parking Bay left 
+2943.0,-1,False,Sign: D 21 
+2948.0,-1,False,Sign: D 16 
+2948.0,-1,False,Wild Horse Plains t/o on left 
+2949.0,-1,False,Sign: D 11 and Adelaide 76 
+2950.0,-1,False,Long Plains 
+2957.0,-1,False,Highway marker 241 
+2957.0,-1,False,Windsor t/o on right 
+2960.0,-1,False,Port Parham t/o on right 
+2961.0,-1,False,Dublin t/o on right 
+2966.0,-1,False,Highway marker 250 
+2970.0,-1,False,Sign: TW 12 Two Wells 
+2973.0,-1,False,Lower Light t/o on right 
+2974.0,-1,False,Lower Light t/o on right 
+2975.0,-1,False,Sign: Adelaide 48 
+2977.0,-1,False,Porter Road t/o on left 
+2980.0,-1,False,Sign: TW 2 
+2981.0,-1,False,Two Wells / Gawler t/o on left 
+2982.0,-1,False,Two Wells t/o on left 
+2983.0,-1,False,Sign: Adelaide 38 
+2985.0,-1,False,Port Gawler t/o on right 
+2987.0,-1,False,Gawler River Bridge 
+2987.0,-1,False,Highway Marker 277 (In Cable area 
+2989.0,-1,False,Angle Vale Rd t/o Left 
+2990.0,-1,False,Sign “Welcome to Adelaide” 
+2993.0,-1,False,McEvoy Rd t/o Right 
+2994.0,-1,False,Ryan Rd t/o right “To Motor 
+2995.0,-1,False,Road Sign Adelaide 26 
+2996.0,-1,False,Expressway Overpass 
+2997.0,-1,False,Mill Rd South t/o Left 
+2998.0,-1,False,St Kilda Rd t/o Right 
+2998.0,-1,False,END OF TIMING 
+2998.0,-1,False,Highway marker 288 
+2999.0,-1,True,Traffic Lights Angle Vale t/o 
+3002.6,-1,True,Traffic Lights Bolivar t/o BP Stn on left 
+3002.9,90,False,Speed limit 90 Km/h 
+3003.7,-1,False,Weighbridge On left 
+3005.3,-1,False,Globe Derby Park On right 
+3006.4,-1,True,Traffic Lights Gillespie St 
+3007.1,90,False,Speed limit 90 Km/h 
+3007.6,-1,True,Traffic Lights – Salisbury overpass Use left lanes only 
+3007.9,80,False,Speed limit 80 Km/h 
+3009.4,70,False,Speed limit 70 Km/h 
+3009.9,-1,True,Traffic Lights In right lane only 
+3010.9,70,False,Speed limit 70 Km/h Left lane 
+3011.6,60,False,Speed limit 60 Km/h Move to centre lane 
+3011.9,-1,True,Traffic Lights - major intersection Straight ahead Do not use left 
+3012.7,-1,True,Traffic Lights 
+3014.8,-1,True,Traffic Lights – Regency Road Straight ahead 
+3015.1,-1,False,Pedestrian Lights Sefton Plaza 
+3015.2,-1,True,Traffic Lights Straight ahead 
+3015.9,-1,False,Pedestrian lights 
+3016.3,-1,False,Pedestrian Lights 
+3016.8,-1,False,Do not use left lane 
+3017.1,-1,True,Traffic Lights Bear Right 30 On Main North Rd 
+3017.9,-1,True,Traffic Lights Fitzroy Terrace 
+3018.0,50,False,Speed Limit 50 kph 
+3018.3,-1,True,Traffic lights - Barton Tce Bear Left 30 Use left lane 
+3018.8,-1,True,Traffic Lights – Tynte St Straight on 
+3018.9,-1,True,Traffic Lights – Archer St Straight on 
+3019.1,-1,True,Traffic Lights – Ward St Straight on 
+3019.2,-1,True,Traffic Lights – Brougham Place Straight on King William Rd 
+3019.6,-1,True,Traffic Lights – Kermode St Straight on 
+3020.1,-1,True,Traffic Lights – Memorial Drive Follow instructions 
+3020.6,-1,True,Traffic Lights - North Terrace King William St 
+3020.8,-1,True,Traffic Lights - Hindley Street On right 
+3020.9,-1,True,Traffic Lights - Grenfell Street On left 
+3021.1,-1,True,Traffic Lights - Pirie Street Turn Left 
+3022.0,-1,False,Hindmarsh Square Finish Line 
